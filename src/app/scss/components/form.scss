@@ -1,0 +1,34 @@
+.form {
+    margin-top: 32px;
+    display: flex;
+    column-gap: 16px;
+  
+    &-group {
+      width: 75%;
+  
+      input {
+        background: rgba(255, 255, 255, 0.6);
+        width: 100%;
+        border-radius: 4px;
+        padding: 16px 24px;
+        color: rgb(74, 74, 74);
+        font-size: 18px;
+        border: 2px solid transparent;
+  
+        &:focus {
+          border: 2px solid #e7cfeb;
+        }
+      }
+    }
+  
+    button {
+      width: 25%;
+      border-radius: 4px;
+      background: #000;
+      cursor: pointer;
+  
+      &:hover {
+        background: rgba(0, 0, 0, 0.8);
+      }
+    }
+  }
