@@ -1,2 +1,1 @@
-# dictionary
- 
+hello internet traveler, in this example, i have been honing my skills with API requests, so this is not the best example you found on the GitHub, of course) you can take a look my code, but this app doesn't find every word you woluld like to find...
